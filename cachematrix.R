@@ -3,7 +3,7 @@
 
 ## Write a short comment describing this function
 
-makeCacheMatrix <- function(x = matrix()) {?get
+makeCacheMatrix <- function(x = matrix()) {
         i <- NULL                                #no values in i
         
         get <- function() x                     #get the value of the matrix
